@@ -39,3 +39,34 @@ Frontend - HTML5, CSS (using custom Flexbox/Grid to achieve "Bat-Computer" style
 Logic - Javascript for fetching and manipulating data via fetch request.
 
 Deployed On - Netlify or Vercel.
+
+
+**5. SETUP**
+
+To set up the project on your computer for development and test use, follow these steps:
+
+Requirements
+Git - to download the repository.
+
+Node.js and npm - Only if using React to provide package management and run the dev server.
+
+1. Download the repository.
+Go through your terminal or command prompt and type:
+git clone https://github.com/your-username/gotham-city-archive.git
+cd gotham-city-archive
+
+2. Installations
+If using JavaScript, no installation is needed, you're good to go!
+
+If using React, you will need to install some packages that will be installed by:
+npm install
+
+3. Run the application
+If using JavaScript:
+Just find the index.html file in the root directory and open it in a modern web browser (such as Chrome, Firefox, or Edge). You can also use the "Live Server" extension with VS Code so you can see changes as you make them.
+
+If using React:
+Run this command to start the local development server:
+npm start
+
+The application will automatically open at http://localhost:3000.
