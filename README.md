@@ -54,7 +54,12 @@ Node.js and npm - Only if using React to provide package management and run the 
 Go through your terminal or command prompt and type:
 git clone https://github.com/your-username/gotham-city-archive.git
 
+then
+
 cd gotham-city-archive
+
+to navigate to project directory
+
 
 3. Installations
 If using JavaScript, no installation is needed, you're good to go!
