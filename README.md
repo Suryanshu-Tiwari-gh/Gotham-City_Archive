@@ -19,8 +19,8 @@ Primary Endpoint: /all.json (to fetch the complete character roster)
 Data Type: JSON objects containing powerstats (intelligence, strength, etc.), appearance, biography, and work.
 
 
-
-**3. Key Features (Milestone 3 Preview)**
+**
+3. Key Features (Milestone 3 Preview)**
 
 In order to satisfy the functional requirements of the project, the following interactions will be built entirely utilizing Array HOFs (.map(), .filter(), .sort(), .find(), etc).
 
@@ -34,11 +34,6 @@ Dark Mode Toggle: A theme switcher to allow users to have a "Gotham at Midnight"
 
 **4. Technologies:**
 
-Frontend - HTML5, CSS (using custom Flexbox/Grid to achieve "Bat-Computer" style layout materials).
-
-Logic - Javascript for fetching and manipulating data via fetch request.
-
-Deployed On - Netlify or Vercel.
 Frontend - HTML5, CSS (using custom Flexbox/Grid to achieve "Bat-Computer" style layout materials).
 
 Logic - Javascript for fetching and manipulating data via fetch request.
