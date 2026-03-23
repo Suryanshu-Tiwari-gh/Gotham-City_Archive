@@ -53,12 +53,14 @@ Node.js and npm - Only if using React to provide package management and run the 
 1. Download the repository.
 Go through your terminal or command prompt and type:
 git clone https://github.com/your-username/gotham-city-archive.git
+
 cd gotham-city-archive
 
-2. Installations
+3. Installations
 If using JavaScript, no installation is needed, you're good to go!
 
 If using React, you will need to install some packages that will be installed by:
+
 npm install
 
 3. Run the application
@@ -67,6 +69,7 @@ Just find the index.html file in the root directory and open it in a modern web 
 
 If using React:
 Run this command to start the local development server:
+
 npm start
 
 The application will automatically open at http://localhost:3000.
