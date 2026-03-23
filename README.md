@@ -52,6 +52,7 @@ Node.js and npm - Only if using React to provide package management and run the 
 
 1. Download the repository.
 Go through your terminal or command prompt and type:
+
 git clone https://github.com/your-username/gotham-city-archive.git
 
 then
