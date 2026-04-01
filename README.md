@@ -65,20 +65,7 @@ to navigate to project directory
 
 2. Installations
    
-If using JavaScript, no installation is needed, you're good to go!
-
-If using React, you will need to install some packages that will be installed by:
-
-npm install
-
-3. Run the application
-   
-If using JavaScript:
-Just find the index.html file in the root directory and open it in a modern web browser (such as Chrome, Firefox, or Edge). You can also use the "Live Server" extension with VS Code so you can see changes as you make them.
-
-If using React:
-Run this command to start the local development server:
-
+Open index.html in browser or use Live Server
 npm start
 
 The application will automatically open at http://localhost:3000.
