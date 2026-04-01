@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Gotham City Archive</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <header>
+    <h1>🦇 Gotham City Archive</h1>
+    <p class="sub">Track heroes and villains of Gotham</p>
+  </header>
+
+  <main>
+    <button onclick="showDC(allData)">Show Gotham</button>
+
+    <div id="loading" class="center">Loading characters...</div>
+
+    <div id="error" class="hidden"></div>
+
+    <section id="chars" class="grid"></section>
+
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
+
