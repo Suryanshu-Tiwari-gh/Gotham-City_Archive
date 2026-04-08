@@ -14,7 +14,11 @@
   </header>
 
   <main>
-    <button onclick="showDC(allData)">Show Gotham</button>
+    <button onclick="showAll()">All</button>
+    <button onclick="showDC()">DC</button>
+    <button onclick="sortInt()">Sort</button>
+
+    <input type="text" placeholder="Search..." oninput="searchChar(event)">
 
     <div id="loading" class="center">Loading characters...</div>
 
