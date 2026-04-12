@@ -87,3 +87,20 @@ button:active {
   font-size: 0.95rem;
 }
 
+body.light {
+  background: #ffffff;
+  color: #000000;
+}
+
+body.light header {
+  background: #f0f0f0;
+  border-bottom: 1px solid #ccc;
+}
+
+body.light .card {
+  background: #eaeaea;
+}
+
+body.light .sub {
+  color: #555;
+}
