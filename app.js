@@ -70,3 +70,11 @@ function sortInt() {
     </div>
   `).join("");
 }
+
+function toggleMode() {
+  if (document.body.className === "light") {
+    document.body.className = "";
+  } else {
+    document.body.className = "light";
+  }
+}
